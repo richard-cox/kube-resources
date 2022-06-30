@@ -1,6 +1,6 @@
 # Purpose
 
-Load an individual Kubernetes cluster with enough resources (4,000 Deployments) to reproduce performance issues with the Rancher UI.
+Load an individual Kubernetes cluster with enough resources to reproduce performance issues with the Rancher UI.
 
 # Usage
 
