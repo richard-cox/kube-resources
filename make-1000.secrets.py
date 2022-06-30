@@ -2,7 +2,6 @@ import os
 dirname = os.path.dirname(__file__)
 filename = os.path.join(dirname, 'make-1000-secrets.yaml')
 file = open(filename, 'a', encoding="utf-8")
-# file = open('./make-1000-secrets.yaml', 'r', encoding="utf-8")
 
 def getSecret(name):
 
