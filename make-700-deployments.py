@@ -15,6 +15,7 @@ spec:
   selector:
     matchLabels:
       app: crashing-test-pod{number}
+  replicas: 10
   template:
     metadata:
       labels:
